@@ -38,10 +38,14 @@ The **PG Management System** is a **desktop-based software application** designe
 - JDBC (Database Connectivity)
 
 ## Project Screenshots
-## Project Screenshots
-![Login Page](https://raw.githubusercontent.com/username/PG-Management-System/main/images/login_page.png)
-![Customer Registration](https://raw.githubusercontent.com/username/PG-Management-System/main/images/customer_registration.png)
-![Payment Screen](https://raw.githubusercontent.com/username/PG-Management-System/main/images/payment_screen.png)
+
+THE BOYS PG HOSTEL <br><img src="https://github.com/surajaghav1/PG_Project/blob/main/PG_Management/images/PG_boys.jpg" width="400">  <br> <br>
+
+<strong> Luxiourious Rooms Available </strong> <br><br>
+<img src="https://github.com/surajaghav1/PG_Project/blob/main/PG_Management/images/Room_1.jpeg" width="400" height="400" >
+<img src="https://github.com/surajaghav1/PG_Project/blob/main/PG_Management/images/Room_2.jpeg" width="400" height="400" >   <br><br>
+<img src="https://github.com/surajaghav1/PG_Project/blob/main/PG_Management/images/Room_3_sharing.jpeg" width="400" height="400">
+<img src="https://github.com/surajaghav1/PG_Project/blob/main/PG_Management/images/Room_4_sharing.jpeg" width="400" height="400">
 
 
 ## Installation Guide
