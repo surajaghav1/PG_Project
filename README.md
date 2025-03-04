@@ -38,7 +38,7 @@ The **PG Management System** is a **desktop-based software application** designe
 - JDBC (Database Connectivity)
 
 ## Project Screenshots
-![Login Page](images/login_page.png)
+![Login Page](PG_Project/PG_Management/images/login_page.png) 
 ![Customer Registration](images/customer_registration.png)
 ![Room Allocation](images/room_allocation.png)
 ![Payment Screen](images/payment_screen.png)
