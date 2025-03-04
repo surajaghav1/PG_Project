@@ -38,10 +38,11 @@ The **PG Management System** is a **desktop-based software application** designe
 - JDBC (Database Connectivity)
 
 ## Project Screenshots
-![Login Page](PG_Project/PG_Management/images/login_page.png) 
-![Customer Registration](images/customer_registration.png)
-![Room Allocation](images/room_allocation.png)
-![Payment Screen](images/payment_screen.png)
+## Project Screenshots
+![Login Page](https://raw.githubusercontent.com/username/PG-Management-System/main/images/login_page.png)
+![Customer Registration](https://raw.githubusercontent.com/username/PG-Management-System/main/images/customer_registration.png)
+![Payment Screen](https://raw.githubusercontent.com/username/PG-Management-System/main/images/payment_screen.png)
+
 
 ## Installation Guide
 1. Install **Java JDK 11 or above**.
