@@ -52,7 +52,7 @@ THE BOYS PG HOSTEL <br><img src="https://github.com/surajaghav1/PG_Project/blob/
 1. Install **Java JDK 11 or above**.
 2. Install **MySQL Server**.
 3. Import the database using the provided SQL script.
-4. Run the application using the `Main.java` file.
+4. Run the application using the `Home_page.java` file.
 
 ## Database Configuration
 Update the following details in the `Connection.java` file:
